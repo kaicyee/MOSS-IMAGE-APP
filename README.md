@@ -8,6 +8,13 @@ you can place elements with bounding boxes, edit images (inpainting / image-to-i
 ![Platform](https://img.shields.io/badge/platform-macOS%20%7C%20Apple%20Silicon-lightgrey)
 ![MCP](https://img.shields.io/badge/MCP-stdio-8A2BE2)
 
+> **About this copy.** Derived from [vitaliyhan/moss-image-mac](https://github.com/vitaliyhan/moss-image-mac)
+> at commit `452c31c`. The original code is MIT licensed, Copyright (c) 2026 abhishekaryan23 — see
+> [LICENSE](LICENSE). Model weights and the stable-diffusion.cpp runtime are separate works under their
+> own licenses and are not redistributed here; see [THIRD_PARTY.md](THIRD_PARTY.md).
+>
+> Local addition: [docs/moss-tutorial.md](docs/moss-tutorial.md).
+
 | Text & layout | Photoreal | Painting |
 |---|---|---|
 | ![text](docs/images/compare_text.jpg) | ![realistic](docs/images/compare_realistic.jpg) | ![painting](docs/images/compare_painting.jpg) |
